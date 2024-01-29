@@ -1,4 +1,6 @@
-# # A Practical Whisper Transcription Guide
+# A Practical Whisper Transcription Guide
+
+A beginner's guide to using OpenAI's Whisper, a powerful and free to use transcription model.
 
 ## Description
 
@@ -14,3 +16,7 @@ The tutorial assumes you have an audio file (mp3, flac, wav, etc.) ready to use 
  4. **Running the Notebook**: Follow the instructions in the notebook to transcribe your audio file!
 
 This tutorial also comes with an accompanying supplementary video tutorial that quickly goes over the main points of transcription. See the notebook for more information.
+
+## References
+
+This tutorial just follow's OpenAI's Whisper's official documentation. For more information, please refer to the official documentation [here](https://github.com/openai/whisper).
