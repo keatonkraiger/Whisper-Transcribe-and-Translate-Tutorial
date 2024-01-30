@@ -2,7 +2,7 @@
 
 A beginner's guide to using OpenAI's Whisper, a powerful and free to use transcription/translation model. If you find this guide helpful, please consider smashing that ⭐ button! 😎
 
-Or follow the [TL;DR](#tldr) to get started right away!
+Follow the [TL;DR](#tldr) to get started right away!
 
 ## [Description](#description)
 
