@@ -28,7 +28,7 @@ The tutorial assumes you have an audio file (mp3, flac, wav, etc.) ready to use 
 
 ## [TL;DR](#tldr)
 
-Download audio files for [transcription](AllStar.mp3) and [translation](Cupid_Fifty_Fifty_Korean_Version). Assuming you are using these files (or a file with the same name): 
+Download audio files for [transcription](AllStar.mp3) and [translation](Cupid_Fifty_Fifty_Korean_Version.mp3). Assuming you are using these files (or a file with the same name): 
 
 1. Open the [Whisper_Tutorial](https://colab.research.google.com/github/keatonkraiger/Whisper-Transcription-Tutorial/blob/main/Whisper_Tutorial.ipynb) in Colab.
 2. Enable the GPU (Runtime > Change runtime type > Hardware accelerator > GPU). 
